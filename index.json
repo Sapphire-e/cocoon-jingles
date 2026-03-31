@@ -1,5 +1,5 @@
 {
-  "name": "Red's Jingles Pack",
+  "name": "Sapphire's Jingles Pack",
   "gba": [
     {
       "name": "Pokemon Emerald",
@@ -55,7 +55,7 @@
     },
     {
       "name": "Legend of Zelda, The - Majora's Mask 3D",
-      "file": "jingles/n3ds/legend-of-zelda-the-majoras-mark-3d.mp3"
+      "file": "jingles/n3ds/legend-of-zelda-the-majoras-mask-3d.mp3"
     },
     {
       "name": "Legend of Zelda, The - Ocarina of Time 3D",
