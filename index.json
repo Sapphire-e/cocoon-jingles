@@ -1,0 +1,159 @@
+{
+  "name": "Red's Jingles Pack",
+  "gba": [
+    {
+      "name": "Pokemon Emerald",
+      "file": "jingles/gba/pokemon-emerald.wav"
+    },
+    {
+      "name": "Pokemon FireRed",
+      "file": "jingles/gba/pokemon-fire-red.wav"
+    },
+    {
+      "name": "The Legend of Zelda - A Link to the Past & Four Swords",
+      "file": "jingles/gba/zelda-four-swords-adventures.mp3"
+    }
+  ],
+  "nds": [
+    {
+      "name": "Pokemon HeartGold",
+      "file": "jingles/nds/pokemon-hgss.wav"
+    },
+    {
+      "name": "Pokemon Platinum",
+      "file": "jingles/nds/pokemon-platinum.wav"
+    },
+    {
+      "name": "Pokemon Black Version",
+      "file": "jingles/nds/pokemon-bw.wav"
+    },
+    {
+      "name": "Pokemon White 2",
+      "file": "jingles/nds/pokemon-white-2.wav"
+    },
+    {
+      "name": "Pokemon Mystery Dungeon - Explorers of Sky",
+      "file": "jingles/nds/pokemon-mystery-dungeon-explorers-of-sky.wav"
+    }
+  ],
+  "n3ds": [
+    {
+      "name": "Fire Emblem - Awakening",
+      "file": "jingles/n3ds/fire-emblem-awakening.mp3"
+    },
+    {
+      "name": "Pokemon Alpha Sapphire",
+      "file": "jingles/n3ds/pokemon-alpha-sapphire.mp3"
+    },
+    {
+      "name": "Pokemon X",
+      "file": "jingles/n3ds/pokemon-x.mp3"
+    },
+    {
+      "name": "Pokemon Ultra Sun",
+      "file": "jingles/n3ds/pokemon-ultra-sun.mp3"
+    },
+    {
+      "name": "Legend of Zelda, The - Majora's Mask 3D",
+      "file": "jingles/n3ds/legend-of-zelda-the-majoras-mark-3d.mp3"
+    },
+    {
+      "name": "Legend of Zelda, The - Ocarina of Time 3D",
+      "file": "jingles/n3ds/legend-of-zelda-the-ocarina-of-time-3d.mp3"
+    },
+    {
+      "name": "Kirby - Triple Deluxe",
+      "file": "jingles/n3ds/kirby-triple-deluxe.mp3"
+    },
+    {
+      "name": "Mario Kart 7",
+      "file": "jingles/n3ds/mario-kart-7.mp3"
+    },
+    {
+      "name": "New Super Mario Bros. 2",
+      "file": "jingles/n3ds/new-super-mario-bros-2.mp3"
+    },
+    {
+      "name": "Professor Layton and the Miracle Mask",
+      "file": "jingles/n3ds/professeur-layton-et-le-masque-des-miracles.mp3"
+    },
+    {
+      "name": "Professor Layton and the Azran Legacy",
+      "file": "jingles/n3ds/professeur-layton-et-lheritage-des-aslantes.mp3"
+    }
+  ],
+  "nes": [
+    {
+      "name": "Super Mario 64",
+      "file": "jingles/nes/mario-64.wav"
+    }
+  ],
+  "snes": [
+    {
+      "name": "Super Mario World",
+      "file": "jingles/snes/super-mario/world.ogg"
+    }
+  ],
+  "switch": [
+    {
+      "name": "Kirby and the Forgotten Land",
+      "file": "jingles/switch/kirby-and-the-forgotten-land.wav"
+    },
+    {
+      "name": "New Super Mario Bros. U Deluxe",
+      "file": "jingles/switch/new-super-mario-bros-u-deluxe.wav"
+    },
+    {
+      "name": "Fire Emblem - Three Houses",
+      "file": "jingles/switch/fire-emblem-three-houses.wav"
+    },
+    {
+      "name": "Paper Mario - The Origami King",
+      "file": "jingles/switch/paper-mario-origami-king.wav"
+    },
+    {
+      "name": "Paper Mario The Thousand-Year Door",
+      "file": "jingles/switch/paper-mario-the-thousand-year-door.wav"
+    },
+    {
+      "name": "51 Worldwide Games",
+      "file": "jingles/switch/51-worldwide-games.wav"
+    },
+    {
+      "name": "Mario Kart 8 Deluxe",
+      "file": "jingles/switch/mario-kart-8.wav"
+    },
+    {
+      "name": "Celeste",
+      "file": "jingles/switch/celeste.mp3"
+    },
+    {
+      "name": "Final Fantasy VII",
+      "file": "jingles/switch/final-fantasy-vii.mp3"
+    },
+    {
+      "name": "FINAL FANTASY VI",
+      "file": "jingles/switch/final-fantasy-vi.wav"
+    }
+  ],
+  "wii": [
+    {
+      "name": "New Super Mario Bros. Wii",
+      "file": "jingles/wii/new-super-mario-bros-wii.wav"
+    },
+    {
+      "name": "Mario Kart Wii",
+      "file": "jingles/wii/mario-kart-wii.wav"
+    }
+  ],
+  "wiiu": [
+    {
+      "name": "Legend of Zelda, The - Twilight Princess HD",
+      "file": "jingles/wiiu/the-legend-of-zelda-twilight-princess-hd.mp3"
+    },
+    {
+      "name": "The Legend of Zelda - The Wind Waker HD",
+      "file": "jingles/wiiu/the-legend-of-zelda-the-wind-waker-hd.mp3"
+    }
+  ]
+}
