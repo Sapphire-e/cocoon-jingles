@@ -53,6 +53,7 @@ Layton's Mystery Journey - Katrielle and the Millionaires' Conspiracy - Deluxe E
 Final Fantasy VII ✅  
 FINAL FANTASY VI ✅  
 Fire Emblem - Three Houses ✅  
+Fire Emblem Warriors - Three Hopes ✅  
 51 Worldwide Games ✅  
   
 ## PS2  
