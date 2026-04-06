@@ -1,5 +1,6 @@
 ## GBA  
 Pokemon FireRed ✅  
+Pokemon LeafGreen ✅  
 Pokemon Emerald ✅  
 The Legend of Zelda - A Link to the Past & Four Swords ✅  
   
@@ -8,6 +9,7 @@ Pokemon HeartGold ✅
 Pokemon Platinum ✅  
 Pokemon Black Version ✅  
 Pokemon White 2 ✅  
+Pokemon Black 2 ✅  
 Pokemon Mystery Dungeon - Explorers of Sky ✅  
 Kirby Super Star Ultra ✅  
   
@@ -15,6 +17,7 @@ Kirby Super Star Ultra ✅
 Pokemon Alpha Sapphire ✅  
 Pokemon X ✅  
 Pokemon Ultra Sun ✅  
+Pokemon Ultra Moon ✅  
 Fire Emblem - Awakening ✅  
 Legend of Zelda, The - Majora's Mask 3D ✅  
 Legend of Zelda, The - Ocarina of Time 3D ✅  
